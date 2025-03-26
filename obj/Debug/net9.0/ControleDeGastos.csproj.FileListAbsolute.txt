@@ -1,0 +1,15 @@
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\bin\Debug\net9.0\ControleDeGastos.exe
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\bin\Debug\net9.0\ControleDeGastos.deps.json
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\bin\Debug\net9.0\ControleDeGastos.runtimeconfig.json
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\bin\Debug\net9.0\ControleDeGastos.dll
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\bin\Debug\net9.0\ControleDeGastos.pdb
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.AssemblyInfoInputs.cache
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.AssemblyInfo.cs
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.csproj.CoreCompileInputs.cache
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.dll
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\obj\Debug\net9.0\refint\ControleDeGastos.dll
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.pdb
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.genruntimeconfig.cache
+d:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\obj\Debug\net9.0\ref\ControleDeGastos.dll
+D:\Projetos web\Controle_de_Gastos_C#\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.sourcelink.json
